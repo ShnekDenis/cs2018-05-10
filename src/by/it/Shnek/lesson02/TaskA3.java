@@ -9,7 +9,8 @@ class TaskA3 {
     public static void main(String[] args) {
         int i = 2;
         int j = 3;
-        int k = i + j;
-        System.out.println(i + "+" + j + "=" + k);
+        int z = i * i;
+        int k = j * j + z * z;
+        System.out.println(j + "*" + j + "+" + z + "*" + z + "=" + k);
     }
 }
