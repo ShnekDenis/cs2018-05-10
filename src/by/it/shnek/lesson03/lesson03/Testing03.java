@@ -1,4 +1,4 @@
-package by.it.Shnek.lesson03.lesson03;
+package by.it.shnek.lesson03.lesson03;
 
 import org.junit.Test;
 

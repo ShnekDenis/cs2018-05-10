@@ -1,4 +1,4 @@
-package by.it.Shnek.lesson01;
+package by.it.shnek.lesson01;
 
 public class HelloWorld {
     public static void main(String[] args) {

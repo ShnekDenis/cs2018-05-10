@@ -1,4 +1,4 @@
-package by.it.Shnek.lesson02;
+package by.it.shnek.lesson02;
 
 class TaskA1 {
 /*

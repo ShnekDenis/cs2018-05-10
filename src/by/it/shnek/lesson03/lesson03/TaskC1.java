@@ -1,4 +1,4 @@
-package by.it.Shnek.lesson03.lesson03;
+package by.it.shnek.lesson03.lesson03;
 
 /*
 Lesson 03. Конвертер температуры

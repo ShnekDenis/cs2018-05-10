@@ -1,4 +1,4 @@
-package by.it.Shnek.lesson03.lesson03;
+package by.it.shnek.lesson03.lesson03;
 
 /*
 Lesson 03. Task A2. Стихотворение
@@ -21,5 +21,12 @@ Lesson 03. Task A2. Стихотворение
 Для автоматической проверки откройте и запустите класс Testing
 */
 class TaskA2 {
+    public static void main(String[] args) {
+        System.out.println("Моё любимое стихотворение");
+        String a="У лукоморья дуб зелёный";
+        String b= "Златая цепь на дубе том:";
+        String c="И днём и ночью кот учёный";
+        String d="";
 
+    }
 }
